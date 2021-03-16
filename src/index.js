@@ -5,13 +5,13 @@ import './js/'
 import './assets/scss/main.scss'
 
 // CSS (example)
-// import './assets/css/main.css'
+import './assets/css/leaflet.css'
 
 // Vue.js
 window.Vue = require('vue')
 
 // Vue components (for use in html)
-Vue.component('example-component', require('./js/components/Example.vue').default)
+Vue.component('map-component', require('./js/components/Map.vue').default)
 
 // Vue init
 const app = new Vue({

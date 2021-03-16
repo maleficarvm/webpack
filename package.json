@@ -30,7 +30,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "vue": "^2.6.11"
+    "axios": "^0.21.1",
+    "leaflet": "^1.7.1",
+    "vue": "^2.6.11",
+    "vue2-leaflet": "^2.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
