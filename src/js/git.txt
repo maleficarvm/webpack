@@ -1,0 +1,20 @@
+git status
+
+git add .
+
+git commit -m "first commit"
+
+git rm
+
+git branch
+
+git checkout
+
+git merge
+
+git pull
+
+git push -u origin master
+
+git remote add origin https://github.com/maleficarvm/vue-map.git
+
